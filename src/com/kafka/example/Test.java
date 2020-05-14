@@ -6,6 +6,9 @@ public class Test {
 	public static void main(String args) {
 		System.out.println("test");
 	}
+	public static void main(int args) {
+		System.out.println("int values");
+	}
 	public static void main(String[] args) {
 		try {
 
